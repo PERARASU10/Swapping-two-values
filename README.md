@@ -18,7 +18,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-#Program to swap two values.
+
+ /* #Program to swap two values.
 #Developed by: Kamalesh
 #RegisterNumber : 22001133
 x = int(input())
@@ -26,7 +27,7 @@ y = int(input())
 temp = x
 x = y
 y = temp
-print("Swapped values are: {} {}".format(x,y))
+print("Swapped values are: {} {}".format(x,y)) */
 
 
 

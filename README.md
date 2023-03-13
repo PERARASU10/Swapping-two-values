@@ -18,25 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
 #Program to swap two values.
+#Developed by: Kamalesh
+#RegisterNumber : 22001133
+x = int(input())
+y = int(input())
+temp = x
+x = y
+y = temp
+print("Swapped values are: {} {}".format(x,y))
 
-#Developed by: PERARASU M
 
-#RegisterNumber: 212222100033
-
-
-num1=float(input())
-
-num2=float(input())
-
-temp=num1
-
-num1=num2
-
-num2=temp
-
-print("Swapped values are:",num1,num2)
 
 ## OUTPUT:
 ![Screenshot 2023-03-13 114706](https://user-images.githubusercontent.com/118348589/224622899-825f0d46-24ab-40ba-8742-ba78e80b87dc.png)
